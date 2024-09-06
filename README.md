@@ -1,2 +1,2 @@
 # terraform-plugin-cache
-Terraform Workspace
+Terraform Module
